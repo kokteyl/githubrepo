@@ -1,2 +1,4 @@
-git hub kurs ilk satır
+git hub kurs ilk satır başarılı
+
+ikinci satırda başarılı
 
